@@ -90,7 +90,4 @@ Full-Stack Mykart with Admin Dashboard & Paytm Payment Gateway.
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-sherylann-nyawira
-Vanity URL name
-)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherylann-nyawira)
